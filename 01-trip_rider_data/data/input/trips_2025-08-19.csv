@@ -1,0 +1,3 @@
+trip_id,rider_id,start_stop,end_stop,fare,status,event_time,ingestion_date
+T5,R9,Cantt,Wapda Town,NaN,completed,2025-08-19T08:00:00Z,2025-08-19
+T3,R3,Model Town,Gulberg,415.0,completed,2025-08-19T06:00:00Z,2025-08-19

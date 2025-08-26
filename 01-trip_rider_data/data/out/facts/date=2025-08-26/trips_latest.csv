@@ -1,0 +1,5 @@
+trip_id,rider_id,start_stop,end_stop,fare,status,event_time,ingestion_date,country
+T1,R1,Gulberg,DHA,550.0,completed,2025-08-18 07:55:00+00:00,2025-08-18,PK
+T2,R2,DHA,Johar Town,310.0,completed,2025-08-18 09:30:00+00:00,2025-08-18,AE
+T4,R4,Airport,DHA,800.0,completed,2025-08-18 12:00:00+00:00,2025-08-18,SA
+T3,R3,Model Town,Gulberg,415.0,completed,2025-08-19 06:00:00+00:00,2025-08-19,PK
