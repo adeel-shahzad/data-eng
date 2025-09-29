@@ -1,0 +1,32 @@
+[
+  {
+    "kenteken": "LND32R",
+    "voertuigsoort": "Land- of bosb aanhw of getr uitr stuk",
+    "merk": "TURBOCIPA",
+    "handelsbenaming": "840 JX",
+    "datum_tenaamstelling": "20250519",
+    "inrichting": "Niet geregistreerd",
+    "eerste_kleur": "N.v.t.",
+    "tweede_kleur": "N.v.t.",
+    "datum_eerste_toelating": "20090630",
+    "datum_eerste_tenaamstelling_in_nederland": "20220120",
+    "wacht_op_keuren": "Geen verstrekking in Open Data",
+    "wam_verzekerd": "Nee",
+    "maximale_constructiesnelheid": "40",
+    "europese_voertuigcategorie": "S",
+    "export_indicator": "Nee",
+    "openstaande_terugroepactie_indicator": "Nee",
+    "taxi_indicator": "Nee",
+    "tellerstandoordeel": "Niet geregistreerd",
+    "code_toelichting_tellerstandoordeel": "NG",
+    "tenaamstellen_mogelijk": "Ja",
+    "datum_tenaamstelling_dt": "2025-05-19T00:00:00.000",
+    "datum_eerste_toelating_dt": "2009-06-30T00:00:00.000",
+    "datum_eerste_tenaamstelling_in_nederland_dt": "2022-01-20T00:00:00.000",
+    "api_gekentekende_voertuigen_assen": "https://opendata.rdw.nl/resource/3huj-srit.json",
+    "api_gekentekende_voertuigen_brandstof": "https://opendata.rdw.nl/resource/8ys7-d773.json",
+    "api_gekentekende_voertuigen_carrosserie": "https://opendata.rdw.nl/resource/vezc-m2t6.json",
+    "api_gekentekende_voertuigen_carrosserie_specifiek": "https://opendata.rdw.nl/resource/jhie-znh9.json",
+    "api_gekentekende_voertuigen_voertuigklasse": "https://opendata.rdw.nl/resource/kmfi-hrps.json"
+  }
+]

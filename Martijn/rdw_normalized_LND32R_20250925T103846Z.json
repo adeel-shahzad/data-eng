@@ -1,0 +1,18 @@
+{
+  "plate": "LND32R",
+  "source": "rdw",
+  "latency_ms": 2692,
+  "normalized": {
+    "make": "TURBOCIPA",
+    "model": "840 JX",
+    "type": "Land- of bosb aanhw of getr uitr stuk",
+    "year": 2009,
+    "displacement_cc": null,
+    "power_kw": null,
+    "fuel": null
+  },
+  "source_urls": {
+    "base": "https://opendata.rdw.nl/resource/m9d7-ebf2.json?kenteken=LND32R",
+    "fuel": "https://opendata.rdw.nl/resource/8ys7-d773.json?kenteken=LND32R"
+  }
+}
